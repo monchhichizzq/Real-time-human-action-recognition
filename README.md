@@ -1,6 +1,6 @@
 # Real-time gesture-recognition by 2D input pose
-－－－
-With the rapid developpment of deep learning alogrithms and high-level calculation devices, the intelligent system can be in charge of more complicated and challengeable missions for human activity recognition with higher accuracy than before. Industrial parteners have already showed their great interests in the implementation of AI in real-life applications, such as autonomous driving, human-robort collaboration and healthcare monitoring. In order to fit the growing industrial needs, more effcient and lower-latency gesture recognition methods should be developped to solve the real-time problems in those intelligent systems. \\
+
+With the rapid developpment of deep learning alogrithms and high-level calculation devices, the intelligent system can be in charge of more complicated and challengeable missions for human activity recognition with higher accuracy than before. Industrial parteners have already showed their great interests in the implementation of AI in real-life applications, such as autonomous driving, human-robort collaboration and healthcare monitoring. In order to fit the growing industrial needs, more effcient and lower-latency gesture recognition methods should be developped to solve the real-time problems in those intelligent systems. 
 
 This master project is based on the idea of input 2D skeletal body joints for an LSTM RNN Network to complete the human gesture recognition in real time. Our assumption is:
 
