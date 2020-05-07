@@ -22,7 +22,7 @@ This master project is based on the idea of input 2D skeletal body joints for an
    os.environ["CUDA_VISIBLE_DEVICES"]= "i", i=0, 1, 2...\
    One gpu would be enough to run the test, you could modify the parameters (self.gpu_lstm, self.gpu_openpose, self.gpu0_free) to sign the GPU memory for different inference parts
 6. Run testBodymotion.py (** Load the model and warm it up)
-7. Record your own video and test it
+7. Record your own video and test it \\
    Remember to record your whole body and follow the standarlized actions in the video dataset for an accurate prediction
 
 
