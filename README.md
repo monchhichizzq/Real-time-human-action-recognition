@@ -27,5 +27,6 @@ This master project is based on the idea of input 2D skeletal body joints for an
 
 ## Demo
 ![image](https://github.com/monchhichizzq/Real_time-hand-gesture-recognition/blob/master/test/demo/action_pred.gif)
+![image](https://github.com/monchhichizzq/Real_time-hand-gesture-recognition/blob/master/test/demo/action_pred_2.gif)
 
 ## Training the model
