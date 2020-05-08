@@ -26,7 +26,7 @@ This master project is based on the idea of input 2D skeletal body joints for an
    Remember to record your whole body and follow the standarlized actions in the video dataset for an accurate prediction
 
 ## Demo
-![image -w70](https://github.com/monchhichizzq/Real_time-hand-gesture-recognition/blob/master/test/demo/action_pred.gif =100x100)
+![image](https://github.com/monchhichizzq/Real_time-hand-gesture-recognition/blob/master/test/demo/action_pred.gif){: width="100px" height="100px"}
 ![image](https://github.com/monchhichizzq/Real_time-hand-gesture-recognition/blob/master/test/demo/action_pred_2.gif)
 
 ## Training the model
