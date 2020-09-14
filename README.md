@@ -1,4 +1,4 @@
-# Real-time gesture-recognition by 2D input pose
+# Real-time -recognition by 2D input pose
 
 With the rapid development of deep learning algorithms and high-level calculation devices, the intelligent system can be in charge of more complicated and challengeable missions for human activity recognition with higher accuracy than before. Industrial partners have already showed their great interests in the implementation of AI in real-life applications, such as autonomous driving, human-robot collaboration and healthcare monitoring. In order to fit the growing industrial needs, more efficient and lower-latency gesture recognition methods should be developed to solve the real-time problems in those intelligent systems.  
 
